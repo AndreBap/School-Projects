@@ -1,2 +1,2 @@
 # School Projects
- Collect of Project Done in University
+ Collection of Projects Done in University
